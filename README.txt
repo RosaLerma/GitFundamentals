@@ -9,4 +9,8 @@ Hello, git
 "Feature2 changes" 
 =======
 "Fixing bug#1234" 
+<<<<<<< HEAD
 >>>>>>> 91b5c53 (Fixing bug#1234)
+=======
+"Another fix to bug#1234" 
+>>>>>>> f315946 (Really fixing Bug#1234)
