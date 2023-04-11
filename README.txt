@@ -7,6 +7,7 @@ Hello, git
 ======
 "Feature2" 
 "Feature2 changes" 
+<<<<<<< HEAD
 =======
 "Fixing bug#1234" 
 <<<<<<< HEAD
@@ -14,3 +15,6 @@ Hello, git
 =======
 "Another fix to bug#1234" 
 >>>>>>> f315946 (Really fixing Bug#1234)
+=======
+>>>>>>> feature1_additional
+>>>>>>> db4a8f340eed537be5c2d4115e605f0747094f7a
